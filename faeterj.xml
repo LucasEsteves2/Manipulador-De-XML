@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><disciplina nome="Programação em ambiente visual">
+ 
+		<aluno>
+			<nome>Lucas Esteves</nome>		
+			<notas>
+			<av1>10.0</av1>
+			<av2>10.0</av2>
+			<av3>10.0</av3>
+			<Media>10.0</Media>
+			<Situacao>APROVADO</Situacao>
+			</notas>
+			
+			
+		</aluno>
+	
+		<aluno>
+			<nome>Natalino Esteves</nome>		
+			<notas>
+			<av1>10.0</av1>
+			<av2>10.0</av2>
+			<av3>10.0</av3>
+			<Media>10.0</Media>
+			<Situacao>APROVADO</Situacao>
+			</notas>
+			
+			
+		</aluno>
+	
+
+
+
+
+
+<aluno><nome>Marcelo Dutra </nome><notas><av1>0.0</av1><av2>0.0</av2><av3>0.0</av3><Media>0.0</Media><Situacao>REPROVADO</Situacao></notas></aluno><aluno><nome>Emerson Lima</nome><notas><av1>10.0</av1><av2>10.0</av2><av3>10.0</av3><Media>10.0</Media><Situacao>APROVADO</Situacao></notas></aluno><aluno><nome>teste teste</nome><notas><av1>2.0</av1><av2>2.0</av2><av3>2.0</av3><Media>2.0</Media><Situacao>REPROVADO</Situacao></notas></aluno><aluno><nome>aaaaaaaaaaaaaa</nome><notas><av1>1.0</av1><av2>1.0</av2><av3>1.0</av3><Media>1.0</Media><Situacao>REPROVADO</Situacao></notas></aluno><aluno><nome>abc</nome><notas><av1>4.0</av1><av2>4.0</av2><av3>4.0</av3><Media>4.0</Media><Situacao>REPROVADO</Situacao></notas></aluno><aluno><nome>Aluno Reprovado</nome><notas><av1>0.0</av1><av2>0.0</av2><av3>0.0</av3><Media>0.0</Media><Situacao>REPROVADO</Situacao></notas></aluno></disciplina>
